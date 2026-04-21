@@ -7,5 +7,3 @@ This project implements a lightweight ETL (Extract, Transform, Load) pipeline th
 - Data Cleaning: Removes duplicates and handles missing values
 - SQL Integration: Uses SQLAlchemy for database operations
 - Automation: Supports scheduled execution
-
-## Project Structure
